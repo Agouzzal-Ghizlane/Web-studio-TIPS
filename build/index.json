@@ -126,5 +126,14 @@
       "template"
     ],
     "link": "https://raw.githubusercontent.com/Agouzzal-Ghizlane/Web-studio-TIPS/gh-build/build/wrkpass-v2.json"
+  },
+  {
+    "group": "library",
+    "icon": "fa-solid fa-book",
+    "tags": [
+      "template",
+      "library"
+    ],
+    "link": "https://raw.githubusercontent.com/Agouzzal-Ghizlane/Web-studio-TIPS/gh-build/build/library.json"
   }
 ]
